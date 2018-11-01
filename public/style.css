@@ -1,0 +1,38 @@
+.jumbotron {
+    padding-top: 150px;
+    margin-bottom: 9px;
+    margin-top: 100px;
+    height: 400px; 
+    background-image: url(../images/philly.jpg);
+    background-position: 0% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:blueviolet;
+    text-shadow: white 0.3em 0.3em 0.3em;
+    text-align: center
+}
+
+#home {
+    background-color: black;
+}
+
+#center {
+    text-align: center;
+}
+
+#survey {
+    background-color: black;
+    color: azure;
+    margin-right:25%;
+    margin-left:25%;
+}
+
+#surveyjumbo {
+    height: 200px;
+    background-size: cover;
+    text-align: center;
+    background-position: 10%;
+    padding-top: 50px;
+
+}
+
